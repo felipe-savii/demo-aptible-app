@@ -1,7 +1,7 @@
 # ![](https://framerusercontent.com/images/zPgE6unsAGcnam377HJMPuSoEho.svg)
 
 ## deploy-demo-app
-
+ 
 This application is intended to facilitate learning the features of the Aptible Deploy platform, without
 needing to deploy _your_ application.
 
